@@ -4,7 +4,7 @@
 
 ## Node.js 기반 팀 프로젝트
 
-_**개발 정보 : HTML/CSS/JavaScript, Node.js, mysql, express, Sequelize, jQuery**
-_**개발 기간 : 2021.09.29 ~ 2021.10.15)**
-_**유형 : 팀 프로젝트**
-_**기능 :**
+**개발 정보 : HTML/CSS/JavaScript, Node.js, mysql, express, Sequelize, jQuery**  
+**개발 기간 : 2021.09.29 ~ 2021.10.15)**  
+**유형 : 팀 프로젝트**  
+**기능 :**
